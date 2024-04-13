@@ -8,7 +8,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Enter Your Session ID",
+      "description": "Phoenix~ef66f449f89ecf84243d4a45d721aabd",
       "required": true
     },
     "HANDLERS": {
@@ -17,32 +17,32 @@
       "value": ","
     },
     "SUDO": {
-      "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
+      "description": "Enter Numbers With Country Code Without + Separated With , To Ad",
       "required": false,
       "value": "919074692450"
     },
     "SPAM_COUNT": {
-      "description": "Enter Number Of Times To Send Spam Message Using .spam Command",
+      "description": "10",
       "required": false,
       "value": "10"
     },
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
       "required": false,
-      "value": "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;𝙰𝚋𝚑𝚒𝚜𝚑𝚎𝚔 𝚂𝚞𝚛𝚎𝚜𝚑☘️"
+      "value": "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;𝚂𝙰𝙽𝚄𝙺𝙰 𝙶𝙴𝙴𝙽𝙸𝚃𝙷"
     },
     "OWNER_NAME": {
-      "description": "Enter Your Owner Name",
+      "description": "𝚂𝙰𝙽𝚄𝙺𝙰 𝙶𝙴𝙴𝙽𝙸𝚃𝙷",
       "required": false,
-      "value": "Abhishek Suresh"
+      "value": "𝚂𝙰𝙽𝚄𝙺𝙰 𝙶𝙴𝙴𝙽𝙸𝚃𝙷"
     },
     "OWNER_NUMBER": {
-      "description": "Enter Your Owner Number",
+      "description": "94714774737",
       "required": false,
       "value": "919074692450"
     },
     "BOT_NAME": {
-      "description": "Enter Your Bot Name",
+      "description": "𝙿𝙷𝙾𝙴𝙽𝙸𝚇 𝙼𝙳",
       "required": false,
       "value": "Phoenix-MD"
     },
