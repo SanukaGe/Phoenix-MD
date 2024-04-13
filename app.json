@@ -62,7 +62,7 @@
     "AUTO_REACT": {
   "description": "If You Want To React Automatically To Messages Type true. Otherwise, Type false",
   "value": "false",
-  "required": 𝚝𝚛𝚞𝚎
+  "required": true
    },
     "AUTO_STATUS_READ": {
       "description": "If You Want To View Status Automatically, Type true. Otherwise, Type false",
